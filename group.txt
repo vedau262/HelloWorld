@@ -6,7 +6,7 @@
 			"groupIconHightlight":"home_icon"
 		},	
 		{
-			"groupName":"BASKETBALL",
+			"groupName":"INTERESTING",
 			"groupIcon":"ic_home_black_24dp",
 			"groupIconHightlight":"home_icon"
 		},
