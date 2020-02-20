@@ -8,7 +8,8 @@
             "theloainumber": 10,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Truyenma"
         },
         {
             "theloaititle": "Tình yêu",
@@ -18,7 +19,8 @@
             "theloainumber": 11,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Tinhyeu"
         },
         {
             "theloaititle": "Kiếm hiệp",
@@ -28,7 +30,8 @@
             "theloainumber": 12,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Kiemhiep"
         },
         {
             "theloaititle": "Trinh thám - Phiêu lưu",
@@ -38,7 +41,8 @@
             "theloainumber": 13,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Trinhtham"
         },
         {
             "theloaititle": "Cổ tích - Thiếu nhi",
@@ -48,7 +52,8 @@
             "theloainumber": 14,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Cotich_thieunhi"
         },
         {
             "theloaititle": "Tuổi teen",
@@ -58,7 +63,8 @@
             "theloainumber": 15,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Teen"
         },
         {
             "theloaititle": "Blog Radio",
@@ -68,7 +74,8 @@
             "theloainumber": 15,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Blogradio"
         },
         {
             "theloaititle": "Ngôn tình",
@@ -78,7 +85,8 @@
             "theloainumber": 15,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Ngontinh"
         },
         {
             "theloaititle": "Truyện ngắn",
@@ -88,7 +96,8 @@
             "theloainumber": 15,
             "theloaibackupfeild1": "NA",
             "theloaibackupfeild2": "NA",
-            "theloaibackupfeild3": "NA"
+            "theloaibackupfeild3": "NA",
+            "key": "Truyenngan"
         }
     ],
     "Author": [
@@ -146,7 +155,7 @@
     "Noibat": [
         {
             "booktitle": "Tôi Đã Trông Coi Một Ngôi Nhà Ma",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://radiotoday.net/wp-content/uploads/2018/12/toi-da-trong-mot-ngoi-nha-ma-300x160.jpg",
             "bookurlmedia": "https://archive.org/download/toidatrongcoimotngoinhama/T%C3%B4i%20%C4%90%C3%A3%20Tr%C3%B4ng%20Coi%20M%E1%BB%99t%20Ng%C3%B4i%20Nh%C3%A0%20Ma%20-%20MC%20%C4%90%C3%ACnh%20So%E1%BA%A1n.mp3",
@@ -160,7 +169,7 @@
         },
         {
             "booktitle": "Truyện ma có thật – Hồn Ma Con Chồng Báo Oán",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://radiotoday.net/wp-content/uploads/2018/12/truyenma-co-that-hon-ma-con-chong-bao-oan-300x160.jpg",
             "bookurlmedia": "https://archive.org/download/honmaconchongbaooan/H%E1%BB%93n%20Ma%20Con%20Ch%E1%BB%93ng%20B%C3%A1o%20O%C3%A1n%20-%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt_%20MC%20%C4%90%C3%ACnh%20So%E1%BA%A1n.mp3",
@@ -175,7 +184,7 @@
         },
         {
             "booktitle": "Truyện ma có thật – Người Vợ Ma Lai",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://radiotoday.net/wp-content/uploads/2018/12/truyen-ma-audio-nguoi-vo-ma-lai-300x160.jpg",
             "bookurlmedia": "https://archive.org/download/nguoivomalai/Ng%C6%B0%E1%BB%9Di%20V%E1%BB%A3%20Ma%20Lai%20-%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20b%E1%BA%A1n%20c%C3%B3%20tin%20kh%C3%B4ng_%20MC%20%C4%90%C3%ACnh%20So%E1%BA%A1n.mp3",
@@ -190,7 +199,7 @@
         },
         {
             "booktitle": "Nước Mắt Cô Hồn – Người Khăn Trắng",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://radiotoday.net/wp-content/uploads/2018/12/nuoc-mat-co-dn-truyen-ma-audio-hay-300x160.jpg",
             "bookurlmedia": "https://archive.org/download/nuocmatcodon/N%C6%B0%E1%BB%9Bc%20M%E1%BA%AFt%20C%C3%B4%20%C4%90%C6%A1n%20-%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20thu%20%C3%A2m%20gh%C3%A9p%20nh%E1%BA%A1c%20c%E1%BB%B1c%20hay.mp3",
@@ -371,7 +380,7 @@
         },
         {
             "booktitle": "Hận Người Bội Bạc",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://radiotoday.net/wp-content/uploads/2018/12/halloween-theme-background-at-haunted-cemetery_43605-1281-300x160.jpg",
             "bookurlmedia": "https://api.soundcloud.com/tracks/513793122/download?secret_token=s-tJW8v&client_id=Iy5e1Ri4GTNgrafaXe4mLpmJLXbXEfBR",
@@ -386,7 +395,7 @@
         },
         {
             "booktitle": "Quỷ ám",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 3,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Quy-Am.jpg",
             "bookurlmedia": "https://archive.org/download/quyam/Truyện ma có thật cực kì nổi tiếng của tác giả Dương Thị Phượng - MC Quàng A Tũn - QUỶ ÁM [ Tập 1 ].mp3,https://archive.org/download/quyam/Truyện ma có thật cực kì nổi tiếng của tác giả Dương Thị Phượng - MC Quàng A Tũn - QUỶ ÁM [ Tập 2 ].mp3,https://archive.org/download/quyam/Truyện ma có thật  nổi tiếng của tác giả Dương Thị Phượng - MC Quàng A Tũn - QUỶ ÁM [ Tập 3 END ].mp3",
@@ -401,7 +410,7 @@
         },
         {
             "booktitle": "Đồng trinh ngãi",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Dong-Trinh-Ngai.jpg",
             "bookurlmedia": "https://archive.org/download/dongtrinhngai_201909/Truyện ma có thật về cô trinh nữ bị bùa ngải yểm - MC Quàng A Tũn - ĐỒNG TRINH NGẢI.mp3",
@@ -416,7 +425,7 @@
         },
         {
             "booktitle": "Nữ chúa quỷ",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Nu-Chua-Quy.jpg",
             "bookurlmedia": "https://archive.org/download/nuchuaquy/Truyện ma về vong cô gái trẻ hóa nữ quỷ rùng rợn  - Live Stream Quàng A Tũn - NỮ CHÚA QUỶ.mp3",
@@ -431,7 +440,7 @@
         },
         {
             "booktitle": "Ác linh",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Ac-Linh.jpg",
             "bookurlmedia": "https://archive.org/download/aclinh/Truyện ma có thật về những linh hồn hóa quỷ  - Live Stream Quàng A Tũn - ÁC LINH.mp3",
@@ -446,7 +455,7 @@
         },
         {
             "booktitle": "Săn quỷ",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/San-Quy.jpg",
             "bookurlmedia": "https://archive.org/download/sanquy/TRUYỆN M.A_ SĂN QUỶ _ Truyện M.a dân gian mới của Tiểu Bá Vương _ Nguyễn Huy diễn đọc.mp3",
@@ -461,7 +470,7 @@
         },
         {
             "booktitle": "Gọi quỷ",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Goi-Quy.jpg",
             "bookurlmedia": "https://archive.org/download/goiquy/Truyện ngắn Danh Giác hay Nguyễn Huy diễn dọc - TRUYỆN M.A_ GỌI QU.Ỷ.mp3",
@@ -476,7 +485,7 @@
         },
         {
             "booktitle": "Chiếc áo đỏ",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Chiec-Ao-Do.jpg",
             "bookurlmedia": "https://archive.org/download/chiecaodo/Truyện Ma Có Thật Ngọc Lâm Diễn Đọc Quá Sợ - [SỢ LẮM] Chiếc Áo Đỏ.mp3",
@@ -491,7 +500,7 @@
         },
         {
             "booktitle": "Nghiệp làng",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Nghiep-Lang.jpg",
             "bookurlmedia": "https://archive.org/download/nghieplang/Truyện ngắn mới nhất của Tiểu Bá Vương _ Nguyễn Huy Vlog - TRUYỆN M.A _ NGHIỆP LÀNG.mp3",
@@ -506,7 +515,7 @@
         },
         {
             "booktitle": "Những chuyện trong đời",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Nhung-Chuyen-Trong-Doi.jpg",
             "bookurlmedia": "https://archive.org/download/nhungchuyentrongdoi/Truyện m.a có thật Nguyễn Huy diễn đọc - NHỮNG CHUYỆN TRONG ĐỜI.mp3",
@@ -521,7 +530,7 @@
         },
         {
             "booktitle": "Báo oán",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Bao-Oan.jpg",
             "bookurlmedia": "https://archive.org/download/baooan/TRUYỆN M.A_ BÁO OÁN _ Truyện ngắn hay Nguyễn Huy diễn đọc.mp3",
@@ -536,7 +545,7 @@
         },
         {
             "booktitle": "Đáy sông lạnh",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Day-Song-Lanh.jpg",
             "bookurlmedia": "https://archive.org/download/daysonglanh/TRUYỆN M.A_ ĐÁY SÔNG LẠNH _ Nguyễn Huy diễn đọc.mp3",
@@ -551,7 +560,7 @@
         },
         {
             "booktitle": "Duyên kiếp tâm linh",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 3,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Duyen-Kiep-Tam-Linh.jpg",
             "bookurlmedia": "https://archive.org/download/duyenkieptamlinh/DuyenKiepTamLinh_01.mp3,https://archive.org/download/duyenkieptamlinh/DuyenKiepTamLinh_02.mp3,https://archive.org/download/duyenkieptamlinh/DuyenKiepTamLinh_03.mp3",
@@ -566,7 +575,7 @@
         },
         {
             "booktitle": "Ác vọng",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 3,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Ac-Vong.jpg",
             "bookurlmedia": "https://archive.org/download/acvong/AcVong_01.mp3,https://archive.org/download/acvong/AcVong_02.mp3https://archive.org/download/acvong/AcVong_03.mp3",
@@ -581,7 +590,7 @@
         },
         {
             "booktitle": "Khi người yêu là vòng ma",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 4,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Khi-Nguoi-Yeu-La-Vong-Ma.jpg",
             "bookurlmedia": "https://archive.org/download/khinguoiyeulavongma/KhiNguoiYeuLaVongMa_01.mp3,https://archive.org/download/khinguoiyeulavongma/KhiNguoiYeuLaVongMa_02.mp3,https://archive.org/download/khinguoiyeulavongma/KhiNguoiYeuLaVongMa_03.mp3,https://archive.org/download/khinguoiyeulavongma/KhiNguoiYeuLaVongMa_04.mp3",
@@ -596,7 +605,7 @@
         },
         {
             "booktitle": "Xác chết không đầu",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 5,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Xac-Chet-Khong-Dau.jpg",
             "bookurlmedia": "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_01.mp3,https://archive.org/download/xacchetkhongdau/XacChetKhongDau_02.mp3,https://archive.org/download/xacchetkhongdau/XacChetKhongDau_03.mp3,https://archive.org/download/xacchetkhongdau/XacChetKhongDau_04.mp3,https://archive.org/download/xacchetkhongdau/XacChetKhongDau_05.mp3",
@@ -611,7 +620,7 @@
         },
         {
             "booktitle": "Oan hồn không siêu thoát",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 5,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Oan-Hon-Khong-Sieu-Thoat.jpg",
             "bookurlmedia": "https://archive.org/download/oanhonkhongsieuthoat/OanHonKhongSieuThoat_01.mp3,https://archive.org/download/oanhonkhongsieuthoat/OanHonKhongSieuThoat_02.mp3,https://archive.org/download/oanhonkhongsieuthoat/OanHonKhongSieuThoat_03.mp3,https://archive.org/download/oanhonkhongsieuthoat/OanHonKhongSieuThoat_04.mp3,https://archive.org/download/oanhonkhongsieuthoat/OanHonKhongSieuThoat_05.mp3",
@@ -626,7 +635,7 @@
         },
         {
             "booktitle": "Tứ đại oán",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 2,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Tu-Dai-Oan.jpg",
             "bookurlmedia": "https://archive.org/download/tudaioan/TuDaiOan_01.mp3,https://archive.org/download/tudaioan/TuDaiOan_02.mp3",
@@ -641,7 +650,7 @@
         },
         {
             "booktitle": "Ngôi nhà bí ẩn",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 4,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Ngoi-Nha-Bi-An.jpg",
             "bookurlmedia": "https://archive.org/download/ngoinhabian/NgoiNhaBiAn_01.mp3,https://archive.org/download/ngoinhabian/NgoiNhaBiAn_02.mp3,https://archive.org/download/ngoinhabian/NgoiNhaBiAn_03.mp3,https://archive.org/download/ngoinhabian/NgoiNhaBiAn_04.mp3",
@@ -671,7 +680,7 @@
         },
         {
             "booktitle": "Quạ réo đêm đông",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 3,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Qua-Reo-Dem-Dong.jpg",
             "bookurlmedia": "https://archive.org/download/quareodemdong/QuaReoDemDong_01.mp3,https://archive.org/download/quareodemdong/QuaReoDemDong_02.mp3,https://archive.org/download/quareodemdong/QuaReoDemDong_03.mp3",
@@ -686,7 +695,7 @@
         },
         {
             "booktitle": "Vong nhi báo thù",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 2,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Vong-Nhi-Bao-Thu.jpg",
             "bookurlmedia": "https://archive.org/download/vongnhibaothu/Vong nhi báo thù - MC Quàng A Tũn - TRUYỆN MA CÓ THẬT NẠO PHÁ THAI NHÂN QUẢ BÁO ỨNG [ Tập 1 ].mp3,https://archive.org/download/vongnhibaothu/Vong nhi báo thù - MC Quàng A Tũn - TRUYỆN MA CÓ THẬT NẠO PHÁ THAI NHÂN QUẢ BÁO ỨNG [ Tập 2 ].mp3",
@@ -701,7 +710,7 @@
         },
         {
             "booktitle": "Búp bê máu",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Bup-Be-Mau.jpg",
             "bookurlmedia": "https://archive.org/download/bupbemau_201907/Truyện kinh dị ám ảnh và bất ngờ - Live stream Quàng A Tũn - TRUYỆN MA CÓ THẬT BÚP BÊ MÁU.mp3",
@@ -716,7 +725,7 @@
         },
         {
             "booktitle": "Chuyến xe vong hồn",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Chuyen-Xe-Vong-Hon.jpg",
             "bookurlmedia": "https://archive.org/download/chuyenxevonghon_201907/Truyện kinh dị ám ảnh và bất ngờ - Live stream Quàng A Tũn - TRUYỆN MA CÓ THẬT CHUYẾN XE VONG HỒN.mp3",
@@ -746,7 +755,7 @@
         },
         {
             "booktitle": "Oan hồn đêm rằm",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Oan-Hon-Dem-Ram.jpg",
             "bookurlmedia": "https://archive.org/download/oanhondemram/OAN HỒN ĐÊM RẰM _ Xóm Truyện M.A.mp3",
@@ -761,7 +770,7 @@
         },
         {
             "booktitle": "Hài nhi",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Hai-Nhi.jpg",
             "bookurlmedia": "https://archive.org/download/hainhi/Truyện mới Nguyễn Huy diễn đọc _ XTM TV - HÀI NHI.mp3",
@@ -776,7 +785,7 @@
         },
         {
             "booktitle": "Lời nguyền đen",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Loi-Nguyen-Den.jpg",
             "bookurlmedia": "https://archive.org/download/loinguyenden/Truyện M.A mới nhất Nguyễn Huy diễn đọc _ Xóm Truyện M.A - LỜI NGUYỀN ĐEN.mp3",
@@ -791,7 +800,7 @@
         },
         {
             "booktitle": "Vùng đất tâm linh",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 2,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Vung-Dat-Tam-Linh.jpg",
             "bookurlmedia": "https://archive.org/download/vungdattamlinh/VungDatTamLinh_01.mp3,https://archive.org/download/vungdattamlinh/VungDatTamLinh_02.mp3",
@@ -806,7 +815,7 @@
         },
         {
             "booktitle": "Vùng nước âm phủ",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 5,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Vung-Nuoc-Am-Phu.jpg",
             "bookurlmedia": "https://archive.org/download/vungnuocamphu/VungNuocAmPhu_01.mp3,https://archive.org/download/vungnuocamphu/VungNuocAmPhu_02.mp3,https://archive.org/download/vungnuocamphu/VungNuocAmPhu_03.mp3,https://archive.org/download/vungnuocamphu/VungNuocAmPhu_04.mp3,https://archive.org/download/vungnuocamphu/VungNuocAmPhu_NGOAITRUYEN.mp3",
@@ -836,7 +845,7 @@
         },
         {
             "booktitle": "Vùng đất cấm",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Vung-Dat-Cam.jpg",
             "bookurlmedia": "https://archive.org/download/vungdatcam/VungDatCam_END.mp3",
@@ -866,7 +875,7 @@
         },
         {
             "booktitle": "Vòng tròn ma quỷ",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Vong-Tron-Ma-Quy.jpg",
             "bookurlmedia": "https://archive.org/download/nhungvongtronmaquy_201907/Live stream Diễn đọc Quàng A Tũn - TRUYỆN MA CÓ THẬT VỀ NHỮNG VÒNG TRÒN MA QUỶ.mp3",
@@ -881,7 +890,7 @@
         },
         {
             "booktitle": "Trăng lạnh",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Trang-Lanh.jpg",
             "bookurlmedia": "https://archive.org/download/tranglanh_201907/Live Stream truyện ma có thật cực kì rùng rợn tra tấn thần kinh - MC Quàng A Tũn - TRĂNG LẠNH.mp3",
@@ -896,7 +905,7 @@
         },
         {
             "booktitle": "Ma hốc củi",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Ma-Hoc-Cui.jpg",
             "bookurlmedia": "https://archive.org/download/marungmahoccui_201907/Live Stream truyện ma có thật cực kì rùng rợn - MC Quàng A Tũn - MA RỪNG , MA HỐC CỦI.mp3",
@@ -911,7 +920,7 @@
         },
         {
             "booktitle": "Hồn ma trong biệt thự",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Hon-Ma-Trong-Biet-Thu-Co.jpg",
             "bookurlmedia": "https://archive.org/download/honmatrongngoibietthuco/HỒN MA TRONG NGÔI BIỆT THỰ CỔ - MC Quàng A Tũn - Live Stream truyện ma có thật cực kì rùng rợn.mp3",
@@ -926,7 +935,7 @@
         },
         {
             "booktitle": "Bùa yêu",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Bua-Yeu-Truyen-Ma.jpg",
             "bookurlmedia": "https://archive.org/download/buayeuyeuchodenchet_201907/BÙA YÊU , YÊU CHO ĐẾN CHẾT - MC Quàng A Tũn - Truyện ma có thật về chơi ngải bùa yêu.mp3",
@@ -938,21 +947,6 @@
             "bookfield2": "NA",
             "bookfield3": "NA",
             "booksource": "https://truyenaudio.org/truyen-ma/bua-yeu-truyen-ma.html"
-        },
-        {
-            "booktitle": "Góc khuất cuộc đời",
-            "bookauthor": "Unknow",
-            "booknumber": 22,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/Goc-Khuat-Cuoc-Doi.jpg",
-            "bookurlmedia": "https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 01 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 02 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 3 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 04_ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 05 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 06 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 07 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 08 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 09 _ Truyện Giang Hồ Xã Hội Cực Hay 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập10 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 11_ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 12 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 13 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 14 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 15 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập16 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 17 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 18 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập19 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 20 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 21 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _GÓC KHUẤT CUỘC ĐỜI - Tập 22 (Hết)_ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3",
-            "bookshortdesc": "Hiện tại chưa có tóm tắt",
-            "booknoibat": 0,
-            "bookchude": "Truyện ngắn",
-            "booksingle": 0,
-            "bookfield1": "NA",
-            "bookfield2": "NA",
-            "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-ngan/goc-khuat-cuoc-doi.html"
         }
     ],
     "Blogradio": [
@@ -1002,27 +996,72 @@
             "bookfield2": "NA",
             "bookfield3": "NA",
             "booksource": "https://www.truyenmp3.net/vi/truyen-audio/con-gai-doc-nhat-cua-tong-giam-doc-truyen-ngon-tinh-hay-chi-vi-yeu-anh"
-        }
-    ],
-    "Truyenngan": [
+        },
         {
-            "booktitle": "Lời nguyền ngãi đen",
-            "bookauthor": "Unknow",
-            "booknumber": 1,
-            "bookthumbnail": "https://truyenaudio.org/upload/pro/Ai-Cung-Can-Mot-Ba-Me.jpg",
-            "bookurlmedia": "https://archive.org/download/AiCungCanPhaiCoMotBaMe/Thúy Nga _ Ai Cũng Cần Phải Có Một Bà Mẹ (Audiobook 1).mp3",
-            "bookshortdesc": "Mời quý vị thính giả cùng lắng nghe truyện ngắn Ai Cũng Cần Một Bà Mẹ\n\nGiọng đọc: Nhất Hạnh, Trần Mộng Tú, & Nguyễn Xuân Hoàng",
+            "booktitle": "Kẻ yểu mệnh",
+            "bookauthor": "Unknown",
+            "booknumber": 3,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Tram-2-Ke-yeu-menh-truyen-ngon-tinh-trinh-tham.png",
+            "bookurlmedia": "https://archive.org/download/tramkeyeumenhp02/Tram-ke-yeu-menh-p01.mp3,https://archive.org/download/tramkeyeumenhp02/Tram-ke-yeu-menh-p02.mp3,https://archive.org/download/tramkeyeumenhp02/Tram-ke-yeu-menh-p03.mp3",
+            "bookshortdesc": "“Trên đời này, hễ có kẻ làm chuyện xấu, nhất định sẽ để lại dấu vết. Tôi không tin thời gian có thể chôn vùi tội ác.”\r\n\r\nHoàng Tử Hà đã nói như thế khi đứng trước bất kỳ vụ án nào. Nhưng biết lần tìm manh mối ra sao nếu dấu vết lại chỉ là một tia sét trên trời, một lời đồn vu vơ, một giấc mơ vừa được nghe kể?\r\n\r\nNhững tưởng cơ hội trở về Thục giải vụ án oan của gia đình cô đang đến gần, thì một loạt sự việc kỳ dị trong ngoài triều bỗng xảy ra – đích thân Đồng Xương công chúa yêu cầu hoạn quan Dương Sùng Cổ ra tay điều tra. Loay hoay giữa các dấu vết mơ hồ chẳng thể suy đoán, Hoàng Tử Hà đột nhiên gặp lại người con trai thuở thanh mai trúc mã, giờ đã coi cô như kẻ tử thù. Trăm ân nghìn oán cùng quá khứ vừa ngọt ngào vừa đau thương dễ làm rối trí. Đâu là người ngay, đâu là hung thủ? Sinh ra trong điện ngọc và chốn dân gian, số phận nào hạnh phúc hơn? Rốt cuộc trong đại án mênh mông này, kẻ yểu mệnh là ai?",
             "booknoibat": 0,
-            "bookchude": "Truyện ngắn",
+            "bookchude": "Ngôn tình",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/ngon-tinh/"
+        },
+        {
+            "booktitle": "Nữ hoạn quan",
+            "bookauthor": "Unknown",
+            "booknumber": 3,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Tram-Nu-Hoan-Quan-truyen-ngon-tinh.jpg",
+            "bookurlmedia": "https://archive.org/download/tramnuhoanquan_201908/Tram-Nu-Hoan-Quan-p01.mp3,https://archive.org/download/tramnuhoanquan_201908/Tram-Nu-Hoan-Quan-p02.mp3,https://archive.org/download/tramnuhoanquan_201908/Tram-Nu-Hoan-Quan-p03.mp3",
+            "bookshortdesc": "Thời xưa, người nào muốn bán mình thì cắm một cọng cỏ lên đầu làm dấu, ai muốn mua trông thấy sẽ hỏi và ra giá.\r\n\r\nCâu chuyện này xảy ra vào cái thời xa xưa ấy, khi Đại Đường bắt đầu điệu tàn và muôn vẻ phồn hoa sắp lìa bỏ Trường An… Một thiếu nữ có tài phá án bỗng bị vu là sát nhân và bị săn đuổi khắp giang san, niềm yêu vừa chớm tuổi xuân căng tràn, tự dưng lại phải biến thành hoạn quan…\r\n\r\nĐội trên đầu bóng tối của cáo thị truy nã, gánh trên vai khối nặng phi nhổ của cả thiên hạ, cô thiếu nữ phải chạy đua với hung thủ để phơi bày chân giả trước khi sự thật bị thời gian tàn phá.\r\n\r\nTrên đường đua ấy, cô gặp được đồng minh, quen thêm bằng hữu, cũng tái ngộ oan gia, những yêu và hận cũng theo đó đảo chiều, giăng mắc, hoặc dần dần tháo gỡ… Với kết cấu truyện lồng trong truyện, nhân vật lồng trong nhân vật, sử dụng hai thủ pháp phá án chính là suy luận và giám định pháp y, Trâm là một đại án mênh mang mà Nữ Hoạn Quan chính là chìa khoá đầu tiên để tra vào phá giải.",
+            "booknoibat": 0,
+            "bookchude": "Ngôn tình",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/ngon-tinh/tram-nu-hoan-quan-truyen-ngon-tinh.html"
+        },
+        {
+            "booktitle": "Ăn tiểu bạch thỏ",
+            "bookauthor": "Kim Nghiên",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/An-Tieu-Bach-Tho-Truyen-Ngon-Tinh.jpg",
+            "bookurlmedia": "https://archive.org/download/AnHetTieuBachTho/[Trọn Bộ] Ăn Hết Tiểu Bạch Thỏ _ Truyện Ngôn Tình Hay Về Tổng Tài Thiếu Gia.mp3",
+            "bookshortdesc": "Mời quý vị thính giả cùng lắng nghe câu chuyện ngắn tình yêu rất hay của MC Phan Hồng với tựa đề Ăn Tiểu Bạch Thỏ của tác giả Kim Nghiên. Mời quý vị cùng lắng nghe",
+            "booknoibat": 0,
+            "bookchude": "Ngôn tình",
             "booksingle": 1,
             "bookfield1": "NA",
             "bookfield2": "NA",
             "bookfield3": "NA",
-            "booksource": "https://truyenaudio.org/truyen-ngan/ai-cung-can-mot-ba-me.html"
+            "booksource": "https://truyenaudio.org/ngon-tinh/an-het-tieu-bach-tho.html"
         },
         {
+            "booktitle": "Cô chủ nhỏ xinh đẹp",
+            "bookauthor": "Hồng Nhung",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Co-Chu-Nho-Xinh-Dep-Cua-Toi.jpg",
+            "bookurlmedia": "https://archive.org/download/CoChuNhoXinhDepCuaToi_201905/[Trọn Bộ] Cô Chủ Nhỏ Xinh Đẹp Của Tôi _ Truyện Ngôn Tình Hay Tuyệt Không Nghe Rất Phí.mp3",
+            "bookshortdesc": "Truyện Cô Chủ Nhỏ Xinh Đẹp kể về chàng lập trình viên Vương Vũ với ngoại hình, xuất thân và gia thế cực kỳ bình thường, nhưng tình cờ gặp được cô nàng xinh đẹp Hà Nhã, cô gái có ngoại hình hiền dịu nhưng tính cách lại cực kỳ ngang ngạnh, chỉ vì một hiểu lầm đã thẳng tay đấm vào mặt Vương Vũ... mời quý vị các bạn tiếp tục lắng nghe câu chuyện qua giọng đọc MC Phan Hồng",
+            "booknoibat": 0,
+            "bookchude": "Ngôn tình",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/ngon-tinh/co-chu-nho-xinh-dep-cua-toi.html"
+        }
+    ],
+    "Truyenngan": [
+        {
             "booktitle": "Độ ta không độ nàng",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 3,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Do-Ta-Khong-Do-Nang.jpg",
             "bookurlmedia": "https://archive.org/download/DoTaKhongDoNang/Anh Duy - [ Radio ] Câu Chuyện Độ Ta Không Độ Nàng.mp3,https://archive.org/download/DoTaKhongDoNang/Anh Duy - [Radio] Câu chuyện độ ta không độ nàng phần 2.mp3,https://archive.org/download/DoTaKhongDoNang/Anh Duy - Độ ta không độ nàng.mp3",
@@ -1067,7 +1106,7 @@
         },
         {
             "booktitle": "Góc khuất cuộc đời",
-            "bookauthor": "Unknow",
+            "bookauthor": "Unknown",
             "booknumber": 22,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Goc-Khuat-Cuoc-Doi.jpg",
             "bookurlmedia": "https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 01 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 02 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 3 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 04_ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 05 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 06 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 07 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 08 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 09 _ Truyện Giang Hồ Xã Hội Cực Hay 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập10 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 11_ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 12 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 13 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 14 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 15 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập16 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 17 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 18 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập19 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 20 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _ GÓC KHUẤT CUỘC ĐỜI - Tập 21 _ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3,https://archive.org/download/GocKhuatCuocDoi/MC Đình Duy _GÓC KHUẤT CUỘC ĐỜI - Tập 22 (Hết)_ Truyện Giang Hồ Xã Hội Cực Hot 2019 _ Nghiện Truyện.mp3",
@@ -1094,6 +1133,221 @@
             "bookfield2": "NA",
             "bookfield3": "NA",
             "booksource": "https://truyenaudio.org/truyen-ngan/bo-oi-lay-vo-di-truyen-ngan.html"
+        },
+        {
+            "booktitle": "Bạn giường",
+            "bookauthor": "Tâm Lê",
+            "booknumber": 18,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Ban-Giuong-Truyen-Tam-Ly-Xa-Hoi.jpg",
+            "bookurlmedia": "https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 01 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 02 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 03 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 04 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 05 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 06 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 07 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 08 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 09 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 10 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 11_ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 12 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 13 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 14 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 15 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Hồng Nhung _ BẠN GIƯỜNG - Tập 16 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Đình Duy _ BẠN GIƯỜNG - Tập 17 _ Nghiện Truyện.mp3,https://archive.org/download/BanGiuong/MC Đình Duy _ BẠN GIƯỜNG - Tập 18 (Hết) _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/ban-giuong-truyen-tam-ly-xa-hoi.html"
+        },
+        {
+            "booktitle": "Tử tù",
+            "bookauthor": "Phạm Anh Tuấn",
+            "booknumber": 5,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Tu-Tu-Truyen-Tam-Ly-Xa-Hoi.jpg",
+            "bookurlmedia": "https://archive.org/download/tuanson_TuTu/MC%20%C4%90%C3%ACnh%20Duy%20_%20Truy%E1%BB%87n%20Ng%E1%BA%AFn%20X%C3%A3%20H%E1%BB%99i%20C%E1%BB%B1c%20Hay%20_%20T.%E1%BB%AC%20T%C3%99%20-%20T%E1%BA%ADp%201%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3,https://archive.org/download/tuanson_TuTu/MC Đình Duy _ Truyện Ngắn Xã Hội Cực Hay _ T.Ử TÙ - Tập 2 _ Nghiện Truyện.mp3,https://archive.org/download/tuanson_TuTu/MC Đình Duy _ Truyện Ngắn Xã Hội Rất Hay _ T.Ử TÙ - Tập 3 _ Nghiện Truyện.mp3,https://archive.org/download/tuanson_TuTu/MC Đình Duy _ Truyện Ngắn Xã Hội Quá Hay _ T.Ử T.Ù - Tập 4 _ Nghiện Truyện.mp3,https://archive.org/download/tuanson_TuTu/MC Đình Duy _ Truyện Ngắn Xã Hội Cực Hay _ T.Ử T.Ù - Tập 5(Hết) _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/tu-tu-truyen-tam-ly-xa-hoi.html"
+        },
+        {
+            "booktitle": "Trò đùa số phận",
+            "bookauthor": "Unknown",
+            "booknumber": 2,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Tro-Dua-So-Phan-Truyen-Ngan.jpg",
+            "bookurlmedia": "https://archive.org/download/TroDuaSoPhan/MC Hồng Nhung _ Truyện Ngắn - TRÒ ĐÙA CỦA SỐ PHẬN - Tập 1 _ Nghiện Truyện.mp3,https://archive.org/download/TroDuaSoPhan/MC Hồng Nhung _ Truyện Ngắn - TRÒ ĐÙA CỦA SỐ PHẬN - Tập 2(Hết) _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/tro-dua-so-phan-truyen-ngan.html"
+        },
+        {
+            "booktitle": "Nhật ký bão lòng",
+            "bookauthor": "Gia Huy",
+            "booknumber": 7,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Nhat-Ky-Bao-Long.jpg",
+            "bookurlmedia": "https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng Tập 1 _ MC Đình Duy.mp3,https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng Tập 2 _ MC Đình Duy.mp3,https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng Tập 3 _ MC Đình Duy.mp3,https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng Tập 4 _ MC Đình Duy.mp3,https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng _ Tập 5 _ MC Đình Duy.mp3,https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng Tập 6 _ MC Đình Duy.mp3,https://archive.org/download/NhatKyBaoLong/Nghiện Truyện _ Nhật Ký Bão Lòng Tập 7 (hết) _ MC Đình Duy.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/nhat-ky-bao-long.html"
+        },
+        {
+            "booktitle": "Bản di chúc nghiệt ngã",
+            "bookauthor": "Nguyễn Thị Kim Thúy",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Ban-Di-Chuc-Nghiet-Nga-Truyen-Ngan.jpg",
+            "bookurlmedia": "https://archive.org/download/BanDiChucNghietNga/MC Hồng Nhung diễn đọc truyện ngắn rất hay _  BẢN DI CHÚC NGHIỆT NGÃ  _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/ban-di-chuc-nghiet-nga-truyen-ngan.html"
+        },
+        {
+            "booktitle": "Giữ trọn lời thề",
+            "bookauthor": "Nguyễn Thị Kim Thúy",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Giu-Tron-Loi-The-Truyen-Ngan.jpg",
+            "bookurlmedia": "https://archive.org/download/GiuTronLoiThe/MC Hồng Nhung đọc truyện ngắn quá hay - GIỮ TRỌN LỜI THỀ - Nghiện Truyện.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/giu-tron-loi-the-truyen-ngan.html"
+        },
+        {
+            "booktitle": "Ngày về cành mai ngày tết",
+            "bookauthor": "Unknown",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Ngay-Ve-Canh-Mai-Ngay-Tet.jpg",
+            "bookurlmedia": "https://archive.org/download/NgayVeCanhMaiNgayTet/MC Hồng Nhung _ Hai Truyện Ngắn _ NGÀY VỀ - CÀNH MAI NGÀY TẾT _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/ngay-ve-canh-mai-ngay-tet.html"
+        },
+        {
+            "booktitle": "Đứa con ngoài giá thú",
+            "bookauthor": "Phạm Anh Tuấn",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Dua-Con-Ngoai-Gia-Thu.jpg",
+            "bookurlmedia": "https://archive.org/download/DuaConNgoaiGiaThu/MC Hồng Nhung _ Truyện Ngắn - Đứa C.on Ngoài Giá Thú - Trả T.hù Đời _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Đứa Con Ngoài Giá Thú - tác giả Phạm Anh Tuấn, giọng đọc MC Hồng Nhung. Chúc quý vị có những phút giây thật thư giãn tại TruyenAudio.Org",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/dua-con-ngoai-gia-thu.html"
+        },
+        {
+            "booktitle": "Tiệc trộm",
+            "bookauthor": "Nguyễn Thị Thu Huệ",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Tiec-Trom.jpg",
+            "bookurlmedia": "https://archive.org/download/TiecTrom/MC Đình Duy _ Truyện Ngắn Hay - TIỆC TRỘM  _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Mời quý thính giả lắng nghe câu câu chuyện Tiệc Trộm, tác giả Nguyễn Thị Thu Huệ, giọng đọc Đình Duy. Chúc quý vị có những giây phút thật thư giãn",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/tiec-trom.html"
+        },
+        {
+            "booktitle": "Người đàn bà khát",
+            "bookauthor": "Hạnh Nguyễn",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Nguoi-Dan-Ba-Khat.jpg",
+            "bookurlmedia": "https://archive.org/download/NguoiDanBaKhat/MC%20H%E1%BB%93ng%20Nhung%20_%203%20Truy%E1%BB%87n%20Ng%E1%BA%AFn%20_%20Chuy%E1%BB%87n%20Nh%C3%A0%20M%E1%BB%8B%20-%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20Kh%C3%A1t%20-%20S%E1%BB%91%20M%E1%BB%87nh%20_%20Nghi%E1%BB%87n%20Truy%E1%BB%87n.mp3",
+            "bookshortdesc": "Mời quý vị và các bạn cùng lắng nghe câu chuyện Người Đàn Bà Khát của tác giả Hạnh Nguyễn, thuộc thể loại Tâm lý xã hội, qua giọng đọc của MC Hồng Nhung. Chúc quý vị và các bạn có những phút giây thật thư giãn",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/nguoi-dan-ba-khat.html"
+        },
+        {
+            "booktitle": "Vì vợ là vợ anh",
+            "bookauthor": "Lan Rùa",
+            "booknumber": 17,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Vi-Vo-La-Vo-Anh.jpg",
+            "bookurlmedia": "https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 01_ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 02 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 03 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 04 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 05 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 06 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 07 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 08 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 09 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 10 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 11 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 12 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 13 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 14 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 15 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 16 _ Lan Rùa _ Nghiện Truyện.mp3,https://archive.org/download/ViVoLaVoAnh/MC Đình Soạn _ VÌ VỢ LÀ VỢ ANH - Tập 17 _ Lan Rùa _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Mời quý vị và các bạn cùng lắng nghe câu chuyện Vì Vợ Là Vợ Anh của tác giả Lan Rùa, thuộc thể loại Tâm Lý Xã Hội, qua giọng đọc của MC Đình Soạn. Chúc quý vị và các bạn có những phút giây thật thư giãn",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/vi-vo-la-vo-anh.html"
+        },
+        {
+            "booktitle": "Con điếm",
+            "bookauthor": "Trường Lê",
+            "booknumber": 10,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Con-Diem-Truyen-Tam-Ly-Xa-Hoi.jpg",
+            "bookurlmedia": "https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 01_Tác Giả - Trường Lê_Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 02 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 03 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 04 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 05 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 06 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 07 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 08 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 09 _ Trường Lê _ Nghiện Truyện.mp3,https://archive.org/download/ConDiem/MC Hồng Nhung _ Siêu Phẩm Tâm Lý Xã Hội - C O N - Đ I Ế M - Tập 10(Hết) _ Trường Lê _ Nghiện Truyện.mp3",
+            "bookshortdesc": "Mời quý vị cùng thưởng thức tác phẩm Con Điế.m của tác giả Trường Lê, thuộc thể loại Tâm lý xã hội, qua phần diễn đọc của MC Hồng Nhưng. Chúc quý vị có những phút giây thật thư giãn và thoải mái",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/con-diem-truyen-tam-ly-xa-hoi.html"
+        },
+        {
+            "booktitle": "Nghề nuôi gái",
+            "bookauthor": "Trường Lê",
+            "booknumber": 11,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Nghe-nuoi-gai-Truyen-tam-ly-xa-hoi.jpg",
+            "bookurlmedia": "https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 1 - Tập 1.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 1 - Tập 2.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 1 - Tập 3.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 1 - Tập 4.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 1 - Tập 5 (End).mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 2 - Tập 1.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 2 - Tập 2.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 2 - Tập 3.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 2 - Tập 4.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 2 - Tập 5.mp3,https://archive.org/download/nghenuoigai/Nghề nuôi gái - Phần 2 - Tập 6 (End).mp3",
+            "bookshortdesc": "Hiện tại chưa có tóm tắt",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 0,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/nghe-nuoi-gai.html"
+        },
+        {
+            "booktitle": "Mẹc chồng tôi",
+            "bookauthor": "Unknown",
+            "booknumber": 1,
+            "bookthumbnail": "https://truyenaudio.org/upload/pro/Me-Chong-Toi-Truyen-Ngan.jpg",
+            "bookurlmedia": "https://archive.org/download/MeChongToi/Mẹ Chồng Tôi - Truyện Ngắn Cực Hay Xúc Động Không Kìm Được Nước Mắt.mp3",
+            "bookshortdesc": "Mời quý vị và các bạn cùng lắng nghe câu chuyện ngắn Mẹ Chồng Tôi qua phần diễn đọc của MC Bảo Linh. Chúc quý vị và các bạn có những phút giây thật thư giãn",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "bookfield1": "NA",
+            "bookfield2": "NA",
+            "bookfield3": "NA",
+            "booksource": "https://truyenaudio.org/truyen-ngan/me-chong-toi-truyen-ngan.html"
         }
-    ]
+    ],
+    "Tinhyeu": [],
+    "Kiemhiep": [],
+    "Trinhtham": [],
+    "Cotich_thieunhi": [],
+    "Teen": []
 }
