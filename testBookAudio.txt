@@ -3772,7 +3772,7 @@
     ],
     "Truyendai": [
         {
-            "booktitle": "CON GÁI NGƯỜI KỸ NỮ",
+            "booktitle": "Con gái người kỹ nữ",
             "bookauthor": "TIỂU THUYẾT",
             "booknumber": 25,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Con-gai-nguoi-ky-nu-Tieu-thuyet.png",
@@ -3787,7 +3787,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "NGƯỜI NGỦ THUÊ",
+            "booktitle": "Người ngủ thuê",
             "bookauthor": "Chưa rõ",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Nguoi-ngu-thue.jpg",
@@ -3802,7 +3802,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "SỐ ĐỎ",
+            "booktitle": "Số đỏ",
             "bookauthor": "VŨ TRỌNG PHỤNG",
             "booknumber": 20,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/So-do-Vu-Trong-Phung.jpg",
@@ -3817,7 +3817,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "TRONG QUAN TÀI BUỒN",
+            "booktitle": "Trong quan tài buồn",
             "bookauthor": "NGUYỄN NGỌC NGẠN",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Trong-quan-tai-buon-Nguyen-Ngoc-Ngan.jpg",
@@ -3832,7 +3832,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "CÁI SÂN, CÂY CHUỐI VÀ THẰNG CU",
+            "booktitle": "Cái sân, cây chuối và thằng cu",
             "bookauthor": "TRUYỆN MA",
             "booknumber": 8,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Cai-san-cay-chuoi-va-thang-cu-truyen-ma.jpg",
@@ -3847,7 +3847,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "THẦN ĐIÊU ĐẠI HIỆP",
+            "booktitle": "Thần điêu đại hiệp",
             "bookauthor": "Kim Dung",
             "booknumber": 82,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Than-dieu-dai-hiep-truyen-audio-kiem-hiep.jpg",
@@ -3862,7 +3862,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "TUYẾT SƠN PHI HỒ - TRUYỆN AUDIO KIẾM HIỆP",
+            "booktitle": "Tuyết sơn phi hồ",
             "bookauthor": "Kim Dung",
             "booknumber": 13,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Tuyet-Son-phi-ho-truyen-audio-kiem-hiep.jpg",
@@ -3877,7 +3877,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "HIỆP KHÁCH HÀNH",
+            "booktitle": "Hiệp khách hành",
             "bookauthor": "Kim Dung",
             "booknumber": 25,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Hiep-khach-hanh-truyen-kiem-hiep-audio.jpg",
@@ -3892,7 +3892,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "LIÊN THÀNH QUYẾT",
+            "booktitle": "Liên thành quyết",
             "bookauthor": "Kim Dung",
             "booknumber": 17,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Lien-Thanh-Quyet-kiem-hiep-kim-dung.jpg",
@@ -3907,7 +3907,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "BÍCH HUYẾT KIẾM",
+            "booktitle": "Bích huyết kiếm",
             "bookauthor": "Kim Dung",
             "booknumber": 42,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Audio-kiem-hiep-Bich-Huyet-Kiem.jpg",
@@ -3922,7 +3922,7 @@
             "booksource": "https://truyenaudio.org/truyen-dai/"
         },
         {
-            "booktitle": "TIẾU NGẠO GIANG HỒ",
+            "booktitle": "Tiếu ngạo giang hồ",
             "bookauthor": "Kim Dung",
             "booknumber": 85,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Tieu-Ngao-Giang-Ho-Truyen-Audio-Kiem-Hiep22.jpg",
@@ -3939,7 +3939,7 @@
     ],
     "Lichsu": [
         {
-            "booktitle": "1000 NĂM BẮC THUỘC - SỬ VIỆT HÙNG CA",
+            "booktitle": "1000 năm bắc thuộc - sử việt hùng ca",
             "bookauthor": "Hồ Quý Ly",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/1000-nam-Bac-thuoc-Su-Viet-hung-ca.png",
@@ -3954,7 +3954,7 @@
             "booksource": "https://truyenaudio.org/lich-su/1000-nam-bac-thuoc-su-viet-hung-ca.html"
         },
         {
-            "booktitle": "CHUYỆN KỂ VỀ BÁC HỒ - TRUYỆN HAY VỀ BÁC",
+            "booktitle": "Chuyện kể về Bác Hồ",
             "bookauthor": "Chưa rõ",
             "booknumber": 11,
             "bookthumbnail": "https://photo-1-baomoi.zadn.vn/w1000_r1/2019_02_04_91_29573235/8c5f7366e7270e795736.jpg",
@@ -3969,7 +3969,7 @@
             "booksource": "https://truyenaudio.org/lich-su/truyen-ke-ve-bac-ho-truyen-hay-ve-bac.html"
         },
         {
-            "booktitle": "Tử chiến thành Đa Bang.",
+            "booktitle": "Tử chiến thành đa bang",
             "bookauthor": "Hồ Quý Ly",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Ho-Quy-Ly-qua-giong-ke-Dat-Phia.png",
@@ -3984,7 +3984,7 @@
             "booksource": "https://truyenaudio.org/lich-su/ho-quy-ly-qua-giong-ke-dat-phi.html"
         },
         {
-            "booktitle": "HÙNG CA SỬ VIỆT - TOÀN TẬP",
+            "booktitle": "Hùng ca sử việt - toàn tập",
             "bookauthor": "Chưa rõ",
             "booknumber": 33,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Hung-Ca-Su-Viet-Toan-Tap2.jpg",
@@ -3999,7 +3999,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "BINH PHÁP TÔN TỬ VÀ 36 KẾ",
+            "booktitle": "Bnh pháp tôn tử và 36 kế",
             "bookauthor": "Chưa rõ",
             "booknumber": 1,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Binh-phap-ton-tu-va-36-ke.jpg",
@@ -4014,7 +4014,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "BINH PHÁP TÔN TỬ VÀ 200 TRẬN ĐÁNH NỔI TIẾNG",
+            "booktitle": "Binh pháp tôn tử và 200 trận đánh nổi tiếng",
             "bookauthor": "Chưa rõ",
             "booknumber": 21,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Binh-Phap-Ton-Tu-va-200-tran-danh-noi-tieng.png",
@@ -4029,7 +4029,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "NỮ HOÀNG AI CẬP CLEOPATRA",
+            "booktitle": "Nữ hoàng ai cập cleopatra",
             "bookauthor": "Chưa rõ",
             "booknumber": 13,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Nu-Hoang-Ai-Cap-Cleopatra-Truyen-Ai-Cap-co-dai.jpg",
@@ -4044,7 +4044,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "BÊN THẮNG CUỘC - TRÒ CHUYỆN ĐÊM KHUYA",
+            "booktitle": "Bên thắng cuộc",
             "bookauthor": "Chưa rõ",
             "booknumber": 23,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Ben-Thang-Cuoc-Truyen-Lich-Su.jpg",
@@ -4059,7 +4059,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "NHÌN LẠI MỘT CHẶNG ĐƯỜNG",
+            "booktitle": "Nhìn lại một chặng đường",
             "bookauthor": "Nguyễn Ngọc Ngạn",
             "booknumber": 3,
             "bookthumbnail": "https://images1.content-hci.com/commimg/myhotcourses/blog/post/myhc_56388.jpg",
@@ -4074,7 +4074,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "NHÀ VĂN NGUYỄN NGỌC NGẠN NÓI VỀ PHONG TỤC NGÀY TẾT",
+            "booktitle": "Phong tục ngày tết",
             "bookauthor": "Nguyễn Ngọc Ngạn",
             "booknumber": 1,
             "bookthumbnail": "https://images.kienthuc.net.vn/zoom/800/Uploaded/quynhtien/2018_01_02/phong-tuc-don-tet-co-truyen-mien-bien_ZDOB.jpg",
@@ -4089,7 +4089,7 @@
             "booksource": "https://truyenaudio.org/lich-su/"
         },
         {
-            "booktitle": "THỦY HỬ",
+            "booktitle": "Thủy hử",
             "bookauthor": "THI NẠI AM",
             "booknumber": 73,
             "bookthumbnail": "https://truyenaudio.org/upload/pro/Thuy-Hu-Thi-Nai-Am.jpg",
